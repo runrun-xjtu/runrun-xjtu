@@ -11,7 +11,8 @@
 * :white_check_mark: 制冷系统仿真原理与应用技术
 * :white_check_mark: 换热器设计与优化技术
 * :white_check_mark: 多语言（C++、Python、Fortran）编程能力
-* :white_check_mark: 专业软件应用技术（Ansys Fluent/Workbench、SolidWorks、Aspen Plus、）
+* :white_check_mark: 专业软件应用技术（Ansys Fluent/Workbench、SolidWorks、Aspen Plus）
+* :white_check_mark: 网络信息与服务器运维开发技术
 
 ## 项目经历
 * :star: 2020.1 - 2021.5 空调制冷剂分液器均匀性研究 （气液两相流）
