@@ -7,9 +7,11 @@
 ## 我的技能
 
 * :white_check_mark: 制冷系统与设备专业知识
-* :white_check_mark: CFD仿真
-* :white_check_mark: 制冷系统仿真
-* :white_check_mark: 多语言编程
+* :white_check_mark: CFD理论与仿真技术
+* :white_check_mark: 制冷系统仿真原理与应用技术
+* :white_check_mark: 换热器设计与优化技术
+* :white_check_mark: 多语言（C++、Python、Fortran）编程能力
+* :white_check_mark: 专业软件应用技术（Ansys Fluent/Workbench、SolidWorks、Aspen Plus、）
 
 ## 项目经历
 * :star: 2020.1 - 2021.5 空调制冷剂分液器均匀性研究 （气液两相流）
