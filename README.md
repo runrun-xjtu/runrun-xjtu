@@ -12,7 +12,7 @@
 * :white_check_mark: 换热器设计与优化技术
 * :white_check_mark: 多语言（C++、Python、Fortran）编程能力
 * :white_check_mark: 专业软件应用技术（Ansys Fluent/Workbench、SolidWorks、Aspen Plus等）
-* :white_check_mark: 网络信息与服务器运维开发技术
+* :white_check_mark: 网络信息与服务器运维开发技术（阿里云）
 
 ## 项目经历
 * :star: 2020.1 - 2021.5 空调制冷剂分液器均匀性研究 （气液两相流）
@@ -21,5 +21,6 @@
 
 ## 联系我
 * :envelope: 邮箱：xjtuzdr@foxmail.com
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runrun-xjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
