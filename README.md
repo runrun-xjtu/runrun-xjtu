@@ -21,5 +21,7 @@
 
 ## 联系我
 * :envelope: 邮箱：xjtuzdr@foxmail.com
-      
+
+## 关于我的Github
+* :high_brightness: 一个开源的制冷系统仿真源码库，欢迎各位同学与前辈们借鉴学习
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runrun-xjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
