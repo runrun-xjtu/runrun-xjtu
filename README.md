@@ -1,12 +1,12 @@
 ## 关于我
 
-* :satisfied: 西安交通大学在读研究生（制冷与低温专业）
+* :satisfied: 西安交通大学制冷与低温专业在读研究生
 * :satisfied: 业余编程爱好者
-
+* :satisfied: 业余服务器爱好者
 
 ## 我的技能
 
-* :white_check_mark: 制冷系统与设备专业知识
+* :white_check_mark: 制冷系统与设备专业知识（本硕科班）
 * :white_check_mark: CFD理论与仿真技术
 * :white_check_mark: 制冷系统仿真原理与应用技术
 * :white_check_mark: 换热器设计与优化技术
