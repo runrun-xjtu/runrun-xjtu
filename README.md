@@ -20,5 +20,6 @@
 * :star: 2020.4 -        基于Fluent的制冷系统联合仿真研究 （CFD仿真UDF-DLL接口开发与C++系统仿真）
 
 ## 联系我
-* :envelope: 邮箱：xjtuzdr@foxmail.com <br>
+* :envelope: 邮箱：xjtuzdr@foxmail.com
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runrun-xjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
