@@ -2,7 +2,7 @@
 
 * :mortar_board: 西安交通大学制冷与低温专业在读研究生
 * :satisfied: 业余编程爱好者
-* :smile: 业余PC与服务器爱好者
+* :smile: 业余PC与Linux爱好者
 
 ## 我的专业技能
 
